@@ -6,8 +6,8 @@ In this challenge, we use python code to analyze financial records from a CSV fi
 -The net total amount of "Profit/Losses" over the entire period\
 -The changes in "Profit/Losses" over the entire period, and then the average of those changes\
 -The greatest increase in profits (date and amount) over the entire period\
--The greatest decrease in profits (date and amount) over the entire period\
-
+-The greatest decrease in profits (date and amount) over the entire period
+\
 
 PyPoll:
 In this Challenge, we use python code to help modernaize a small, rural town's vote-counting process to efficiently determinethe following info from a CSV file:
