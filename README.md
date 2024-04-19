@@ -16,3 +16,5 @@ In this Challenge, we use python code to help modernaize a small, rural town's v
 -The percentage of votes each candidate won\
 -The total number of votes each candidate won\
 -The winner of the election based on popular vote
+
+The two project folders contain a PY file with the solution code, a Resources folder which contains the original CSV file, as well as an Analysis folder which contains the out put in a txt file.
